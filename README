@@ -1,0 +1,3 @@
+1. Wait till unitl 'X' is received from GSM module
+2. request GSM data by sending 1 to GSM module and write GPS data to Memory
+3. Read GPS data from memory and send GPS data to GSM module.
